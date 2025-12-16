@@ -5,9 +5,9 @@ function Food(){
 
     return(
         <ul>
-            <li></li>
-            <li></li>
-            <li></li>
+            <li>Apple</li>
+            <li>{food1}</li>
+            <li>{food2.toUpperCase()}</li>
         </ul>
     );
 
